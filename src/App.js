@@ -14,7 +14,7 @@ function App() {
           href='https://reactjs.org'
           target='_blank'
           rel='noopener noreferrer'>
-          Bonjour le Quartier
+          Bonjour la Ville
         </a>
       </header>
     </div>
