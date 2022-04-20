@@ -14,7 +14,7 @@ function App() {
           href='https://reactjs.org'
           target='_blank'
           rel='noopener noreferrer'>
-          Hello World
+          Bonjour le Monde
         </a>
       </header>
     </div>
